@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karan Patel, @karandpatel321
+- 👀 I’m interested in programming, software development, linux distros, android application development.
+- 🌱 I’m currently learning linux OS.
+- 📫 Please contact me on my email: karandpatel321@gmail.com
